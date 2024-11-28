@@ -1,5 +1,5 @@
 ## Greetings!
-Hello! I am Toya Ora, a dual degree bachelors student with a Psychology degree from Colorado College and a Computer Science degree at Columbia University. Some of my interests include Virtual and Augmented Reality, UI Design and AI. In my leisure time, I enjoy walks and jogs by the beach. Fun fact: I have participated in the Walk for Hunger and did a 20 mile walk in the greater Boston area. 
+Hello! I am Toya Ora, a dual degree bachelors student with a Psychology degree from Colorado College and a Computer Science degree at Columbia University. Some of my interests include Virtual and Augmented Reality, UI Design and AI. In my leisure time, I enjoy walks and jogs by the beach. Fun fact: I  participated in the Walk for Hunger and did a 20 mile walk in the greater Boston area. 
 
 
 
